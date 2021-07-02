@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Ai là Zu bếu nhỉ?',
     btnReply: 'send to u',
     reply: 'Người iu mkl :>',
-    mess: 'Em biết mà :))) Yêu anh nhiều nhiều 😘😘',
+    mess: 'Em biết mà :))) Yêu anh nhiều 😘',
     messDesc: 'Ôm cái nha.',
     btnAccept: 'Oceeee luôn <3',
     messLink: 'https://giphy.com/gifs/molangofficialpage-love-cute-9Y1LEFKsbbP4hrLgV3' //link mess của các bạn. VD: https://m.me/nam.nodemy
