@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bae à!',
-    introDesc: `Bếu`,
+    introDesc: 'Bếu',
     btnIntro: 'Em ở đây',
     title: 'Ăn đấm không?',
     desc: 'Ăn đi',
